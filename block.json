@@ -1,0 +1,10 @@
+{
+	"name": "social-share-block/social-share",
+	"title": "Social Share Block",
+	"category": "widgets",
+	"description": "Share your posts & pages instantly on popular social platforms in one click from your website.",
+	"supports": {
+		"align": true
+	},
+	"textdomain": "social-share-block"
+}
